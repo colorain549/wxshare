@@ -8,6 +8,7 @@
 ### 方法一 使用 API 默认
 wx.showShareMenu  
 [https://developers.weixin.qq.com/miniprogram/dev/api/share/wx.showShareMenu.html](https://developers.weixin.qq.com/miniprogram/dev/api/share/wx.showShareMenu.html)  
+
 示例代码    
 ```
 /**
@@ -57,6 +58,7 @@ onShareTimeline: function (res) {
 ---
 ### 使用 button 发送给朋友  
 [https://developers.weixin.qq.com/miniprogram/dev/reference/api/Page.html#onShareAppMessage-Object-object](https://developers.weixin.qq.com/miniprogram/dev/reference/api/Page.html#onShareAppMessage-Object-object)   
+
 示例代码 
 ```
 /**
