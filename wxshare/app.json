@@ -1,0 +1,18 @@
+{
+  "pages":[
+    "pages/nav/nav",
+    "pages/defaultpyq/defaultpyq",
+    "pages/cusomizepyq/cusomizepyq",
+    "pages/buttondefault/buttondefault",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "分享相关",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

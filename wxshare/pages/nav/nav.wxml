@@ -1,0 +1,17 @@
+<button>
+  <navigator url="../defaultpyq/defaultpyq">使用 API 默认</navigator>
+</button>
+
+<text>\t
+</text>
+
+<button>
+  <navigator url="../cusomizepyq/cusomizepyq">使用 框架 自定义</navigator>
+</button>
+
+<text>\t
+</text>
+
+<button>
+  <navigator url="../buttondefault/buttondefault">btn 发给朋友</navigator>
+</button>

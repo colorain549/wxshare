@@ -1,0 +1,9 @@
+<button open-type="share">btn 发给朋友</button>
+<text>
+
+示例代码 
+/**
+* 设置 button 组件 open-type="share"
+*/
+<button open-type="share">btn 发给朋友</button>
+</text>
