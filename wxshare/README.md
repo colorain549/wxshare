@@ -6,7 +6,7 @@
 
 ---
 ### 方法一 使用 API 默认
-wx.showShareMenu
+wx.showShareMenu  
 [https://developers.weixin.qq.com/miniprogram/dev/api/share/wx.showShareMenu.html](https://developers.weixin.qq.com/miniprogram/dev/api/share/wx.showShareMenu.html)  
 示例代码    
 ```
@@ -27,7 +27,7 @@ wx.showShareMenu({
 onShareAppMessage  
 [https://developers.weixin.qq.com/miniprogram/dev/reference/api/Page.html#onShareAppMessage-Object-object](https://developers.weixin.qq.com/miniprogram/dev/reference/api/Page.html#onShareAppMessage-Object-object)
 
-onShareTimeline()
+onShareTimeline()  
 [https://developers.weixin.qq.com/miniprogram/dev/reference/api/Page.html#onShareTimeline](https://developers.weixin.qq.com/miniprogram/dev/reference/api/Page.html#onShareTimeline)
 
 示例代码 
